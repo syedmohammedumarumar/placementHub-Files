@@ -36,65 +36,7 @@ Reports
 
 ---
 
-# 🏗️ Admin Folder Structure
 
-```text
-placementhub-admin/
-
-src/
-
-├── assets/
-
-├── components/
-│
-├── layouts/
-│
-├── modules/
-│
-│── authentication/
-│
-│── dashboard/
-│
-│── students/
-│
-│── companies/
-│
-│── learning/
-│
-│── interview/
-│
-│── calendar/
-│
-│── readiness/
-│
-│── discussion/
-│
-│── profile/
-│
-│── reports/
-│
-│── settings/
-│
-├── hooks/
-│
-├── services/
-│
-├── context/
-│
-├── routes/
-│
-├── utils/
-│
-├── styles/
-│
-├── App.jsx
-│
-└── main.jsx
-```
-
-Notice how **every module matches the student frontend**. This makes backend API design much easier later.
-
----
 
 # 🚀 Admin Development Roadmap
 
